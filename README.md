@@ -2,7 +2,7 @@
 spider-U is a simple python program to crawl through websites for urls using a keyword.
 ## Usage
 Execute the spider-U.py script using python3
-> Example : python3 spider-U.py<br>
+> Example<br>python3 spider-U.py<br>
 > Enter the url to spider : https://www.youtube.com<br>
 > Enter the keyword : youtube
 That's all.
